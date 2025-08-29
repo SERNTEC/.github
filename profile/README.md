@@ -8,7 +8,7 @@ SERNTEC 以 “创造未来，成就未来，为未来赋能” 为核心理念�
 
 *   **地域关联**：China
 
-*   **官方入口**：[http://www.alictec.cn](http://www.alictec.cn)
+*   **官方入口**：[http://www.alictec.cn](http://www.alicetec.cn)
 
 ## 核心仓库（Repositories）
 
